@@ -160,6 +160,8 @@ This lets you:
 - Click on a topic to see all notes covering that topic
 - Use the **Graph View** to visualize connections between notes, topics, and sources
 
+I recommended making a Tags folder and moving any notes like this into that folder to stay organized.
+
 ## Tips
 
 - **Be consistent with daily notes.** Even brief notes help the skills generate better summaries and recommendations.
