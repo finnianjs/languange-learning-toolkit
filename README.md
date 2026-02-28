@@ -32,7 +32,7 @@ Open the project in Claude Code and run:
 
 This will ask you:
 - What language you're learning
-- What level you want to reach (A1–C1)
+- What level you want to reach (A1–C2)
 - Your previous exposure to the language
 - Any specific goals or timeline
 - Details about your study setup
